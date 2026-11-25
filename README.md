@@ -2,6 +2,10 @@
 
 An AI-powered research assistant that automates web research by searching the web, extracting relevant content, summarizing individual sources, and generating a structured research report with source links.
 
+## Application Screenshot
+
+![Research Assistant Agent](screenshots/research-assistant.png)
+
 ## Features
 
 - **Web Search:** Find relevant web pages using DuckDuckGo Search.
